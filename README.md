@@ -1,4 +1,4 @@
-# Linear-Regression
+# House-Price-Prediction-in-Verilog
 
 ## Developers
 
