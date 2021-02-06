@@ -1,2 +1,7 @@
 # Linear-Regression
-📈 Linear Regression, Computer Architecture course, University of Tehran
+
+## Developers
+
+* [**Ghazal Kalhor**](https://github.com/kalhorghazal)
+* [**Narjes Noorzad**](https://github.com/narjesno)
+
